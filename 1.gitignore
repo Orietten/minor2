@@ -1,1 +1,11 @@
-cd /Users/oriette/Desktop/my_python_projects/Kopnina1_project
+venv/
+env/
+__pycache__/
+*.pyc
+db.sqlite3
+.DS_Store
+*.pyc
+*.log
+media/
+staticfiles/
+.env
